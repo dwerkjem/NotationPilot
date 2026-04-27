@@ -1,3 +1,3 @@
 # Piano Note Pilot
 
-Piano Note Pilot is a desktop application designed to help users learn and practice piano. 
+**Piano Note Pilot** is a desktop application for Linux and Windows that helps users learn piano through interactive sheet music, MIDI input, and guided practice tools.
